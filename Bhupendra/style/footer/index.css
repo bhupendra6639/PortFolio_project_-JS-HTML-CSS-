@@ -1,0 +1,46 @@
+.footercontent {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+}
+
+.footerwrap1 {
+    display: flex;
+    justify-content: center;
+    gap: 10px
+}
+
+.footerrwapper svg {
+    width: 35px;
+    height: 25px;
+}
+
+.footerwrap1 svg:hover {
+    padding-left: 3px;
+}
+
+.fstroke-1 {
+    color: rgb(34 211 238);
+    cursor: pointer;
+}
+
+/*.footerrwapper :hover {
+    padding: 2.5px;
+}*/
+
+.footerwrap2 {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    gap: 3px
+}
+
+.discfooter .madewith {
+    color: rgb(34 211 238);
+    cursor: pointer;
+}
+
+span {
+    font-size: 14.5px;
+    letter-spacing: 1;
+}

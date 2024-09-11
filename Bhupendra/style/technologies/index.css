@@ -1,0 +1,248 @@
+/* **************technology 1st************** */
+.technology {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+    margin-bottom: 60px;
+}
+
+/* **************technology heading 1st************** */
+.technologyheading h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+/* **************1st technology columns************** */
+.technologyworking {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+
+}
+
+/* **************1st technology colomn************** */
+/* **************outer wrapper************** */
+.technology .workingwrapper1 {
+
+    width: 380px;
+    height: 290px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #d8b4fe, #818cf8);
+    padding: 5px;
+}
+
+/* **************inner wrapper ***************/
+.technology .workingwrapper1 .innewrapper {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    height: 290px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* **************innerwrapper heading************** */
+.innewrapper h3 {
+    margin-left: 15px;
+    color: #111827;
+}
+
+/* **************inner wrappeer contents************** */
+.workingwrapper1 .worklanguage {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    font-weight: normal;
+    margin-left: 5px;
+    color: #1f2937;
+}
+
+.workingwrapper1 .worklanguage .language {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.workingwrapper1 .language .material-symbols-outlined {
+    border: 2px solid;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 1px;
+    color: white;
+    background-color: black;
+}
+
+.innewrapper h3 {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    margin-left: 15px;
+}
+
+/***************second column************** */
+/* **************outerwrapper**************  */
+.technology .workingwrapper2 {
+    width: 265px;
+    height: 290px;
+    padding: 0 13px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #6ee7b7, #9333ea);
+    padding: 5px;
+}
+
+/* **************inner wrapper ***************/
+.technology .workingwrapper2 .innewrapper {
+    display: flex;
+    flex-direction: column;
+    width: 265px;
+    height: 290px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* **************inner wrappeer contents************** */
+.workingwrapper2 .worklanguage {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-weight: normal;
+    margin-top: 70px;
+    font-size: 15px;
+}
+
+.workingwrapper2 .worklanguage .language {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.workingwrapper2 .language .material-symbols-outlined {
+    border: 2px solid;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 1px;
+    color: white;
+    background-color: black;
+}
+
+/***************thirds column************** */
+/* **************outerwrapper**************  */
+.technology .workingwrapper3 {
+    width: 250px;
+    height: 210px;
+    padding: 0 13px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #ff709f, #fecaca);
+    padding: 5px;
+}
+
+/* **************inner wrapper ***************/
+.technology .workingwrapper3 .innewrapper {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 210px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.innewrapper span {
+    color: black;
+}
+
+.innewrapper h3 {
+    margin-left: 15px;
+}
+
+/* **************inner wrappeer contents************** */
+.workingwrapper3 .worklanguage {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-weight: normal;
+    margin-top: 55px;
+
+}
+
+.workingwrapper3 .worklanguage .language {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.workingwrapper3 .language .material-symbols-outlined {
+    border: 2px solid;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 1px;
+    color: white;
+    background-color: black;
+}
+
+/***************fours column************** */
+/* **************outerwrapper**************  */
+.technology .workingwrapper4 {
+    width: 390px;
+    height: 210px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #fde68a, #fca5a5);
+    padding: 5px;
+}
+
+/* **************inner wrapper ***************/
+.technology .workingwrapper4 .innewrapper {
+    display: flex;
+    flex-direction: column;
+    width: 390px;
+    height: 210px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* **************inner wrappeer contents************** */
+.workingwrapper4 .worklanguage {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    font-weight: normal;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+/* **************inner wrapper content flex ***************/
+.workingwrapper4 .worklanguage .language {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.workingwrapper4 .language .material-symbols-outlined {
+    border: 2px solid;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 1px;
+    color: white;
+    background-color: black;
+}
+
+.technology .workingwrapper1:hover,
+.technology .workingwrapper2:hover,
+.technology .workingwrapper3:hover,
+.technology .workingwrapper4:hover {
+    margin-left: 10px;
+
+}
+
+/* .innewrapper1:hover,
+.innewrapper2:hover,
+.innewrapper3:hover,
+.innewrapper4:hover {
+    padding: 10px;
+} */
+
+.worklanguage span {
+    font-size: 15px;
+}

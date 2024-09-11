@@ -1,0 +1,60 @@
+@media(max-width:600px) {
+    .technologyheading h1 {
+        font-size: 25px;
+        text-align: left;
+    }
+
+    .technologyworking {
+        flex-direction: column;
+    }
+
+    .technology .workingwrapper1 {
+        width: 340px;
+        height: 280px;
+    }
+
+    .technology .workingwrapper1 .innewrapper {
+        width: 340px;
+        height: 280px;
+    }
+
+    .workingwrapper2 .worklanguage {
+        margin-top: 25px;
+    }
+
+    .technology .workingwrapper2 {
+        width: 340px;
+        height: 230px
+    }
+
+    .technology .workingwrapper2 .innewrapper {
+        width: 340px;
+        height: 230px
+    }
+
+    .workingwrapper3 .worklanguage {
+        margin-top: 25px;
+    }
+
+    .technology .workingwrapper3 {
+        width: 340px;
+        height: 170px;
+    }
+
+    .technology .workingwrapper3 .innewrapper {
+        width: 340px;
+        height: 170px;
+    }
+
+    .technology .workingwrapper4 {
+        width: 340px;
+        height: 190px;
+    }
+
+    .technology .workingwrapper4 .innewrapper {
+        width: 340px;
+        height: 190px;
+    }
+
+
+}

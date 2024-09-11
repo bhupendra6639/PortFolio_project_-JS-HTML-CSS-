@@ -1,0 +1,14 @@
+.headescription {
+    background-color: #cffafe;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 100px;
+}
+
+/*************** 1st svg img***************/
+.fill-current {
+    rotate: 180deg;
+    margin-top: -20px;
+    fill: #cffafe;
+}

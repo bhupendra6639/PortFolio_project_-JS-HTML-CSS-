@@ -1,0 +1,20 @@
+@media(max-width:600px) {
+    .intro h1 {
+        font-size: 28px;
+        width: 350px;
+        text-align: center;
+        line-height: 2;
+    }
+
+    .intro h2 {
+        font-size: 20px;
+        text-align: start;
+        padding: 14px 20px;
+    }
+
+    .intro p {
+        width: 300px;
+        font-size: 15px;
+        text-align: start;
+    }
+}

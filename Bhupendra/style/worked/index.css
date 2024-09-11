@@ -1,0 +1,84 @@
+/***************  experience section***************/
+
+.experience {
+    background-color: #cffafe;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px
+}
+
+/***************  experience section heading***************/
+.experience h1 {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+/***************paragaph lines and its symbol***************/
+
+.workdescription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color: #4a5c67;
+
+}
+
+/***************paragraph main section to center***************/
+
+.worksindustries {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    line-height: 1.2em;
+}
+
+.workheading {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    font-size: 15px;
+    color: black;
+    margin-bottom: 15px;
+    color: #4a5c67;
+
+}
+
+.developmentname {
+    color: black;
+}
+
+.workdescription {
+    margin-left: 20px;
+}
+
+/***************paragaph css***************/
+
+.workdescription p {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    width: 550px;
+    text-align: justify;
+    color: #4a5c67;
+    align-self: center;
+    line-height: 1.5;
+}
+
+/***************symbol***************/
+
+.workdescription .material-symbols-outlined {
+    font-size: 16px;
+    align-self: flex-start;
+    padding-top: 15.8px;
+}
+
+.workheading .industriname .limitedindustries {
+    color: rgb(21 94 117);
+    cursor: pointer;
+}
+
+.workdescription {
+    margin-top: -14px;
+
+}

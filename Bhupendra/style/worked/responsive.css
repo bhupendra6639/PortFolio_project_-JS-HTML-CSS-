@@ -1,0 +1,42 @@
+@media(max-width:992px) {
+    .workdescription p {
+        font-size: 14px;
+    }
+
+}
+
+@media(max-width:768px) {
+    .workdescription .material-symbols-outlined {
+        padding-top: 25px;
+    }
+
+}
+
+@media(max-width:600px) {
+    .experience {
+        width: 100%;
+    }
+
+    .experience h1 {
+        font-size: 33px;
+    }
+
+    .workdescription p {
+        width: 250px;
+        font-size: 14px;
+
+    }
+
+    .workheading {
+        font-size: 12px;
+    }
+
+    .workheading {
+        padding-left: 10px;
+    }
+
+    .workdescription .material-symbols-outlined {
+        padding-top: 16.5px;
+    }
+
+}

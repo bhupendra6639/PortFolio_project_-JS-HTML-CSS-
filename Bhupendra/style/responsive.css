@@ -1,0 +1,11 @@
+@media(max-width:600px) {
+    html {
+        max-width: 100vm;
+        max-height: auto;
+    }
+
+    body {
+        max-width: 100vm;
+        max-height: 100Vm;
+    }
+}
